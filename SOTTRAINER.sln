@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOTTRAINER", "SOTTRAINER\SOTTRAINER.csproj", "{EDA55DE6-6570-4E93-9BF3-9D30FBD59C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA55DE6-6570-4E93-9BF3-9D30FBD59C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA55DE6-6570-4E93-9BF3-9D30FBD59C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA55DE6-6570-4E93-9BF3-9D30FBD59C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA55DE6-6570-4E93-9BF3-9D30FBD59C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27C4A14-74B2-4480-9D90-25928128A8C8}
+	EndGlobalSection
+EndGlobal
